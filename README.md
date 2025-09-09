@@ -39,5 +39,5 @@ It is designed as a step-by-step workflow for preparing raw data before applying
 ---
 
 ## 🔗 Author
-👤 *Your Name*  
-📩 [Your Email] | 🌐 [LinkedIn/GitHub Profile]
+👤 Aflah C 
+📩 aflahcholayil@gmail.com | 🌐 https://www.linkedin.com/in/aflah-cholayil
